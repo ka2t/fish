@@ -20,3 +20,9 @@ function fish_user_key_bindings
         bind \cx\ck peco_kill
         bind \ec peco_recentd
 end
+
+# [fisher]
+# oh-my-fish/plugin-peco
+# oh-my-fish/theme-fox
+# tsu-nera/fish-peco_recentd
+# yoshiori/fish-peco_select_ghq_repository
